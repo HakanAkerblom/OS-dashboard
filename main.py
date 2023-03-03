@@ -1,7 +1,7 @@
 import dash # import dash to make the dashboard
 import os # used to import files better. tex the dataframe
 from dash.dependencies import Output, Input # allows inputs and outputs for app
-import plotly_express as px # used for plotting of the graphs
+import plotly.express as px # used for plotting of the graphs
 import pandas as pd # used to clean and analyze data
 import dash_bootstrap_components as dbc # used to style the dashboard. instead of using html
 from dash import html # ensures html can be used
