@@ -3,3 +3,4 @@ pandas
 gunicorn
 dash_bootstrap_components
 plotly.express
+dash_bootstrap_templates
